@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/aboutButton.png</file>
+        <file>image/addButton.png</file>
+        <file>image/bk.png</file>
+        <file>image/closeButton.png</file>
+        <file>image/windowIcon.png</file>
+        <file>image/closeButton2.png</file>
+        <file>image/white.png</file>
+        <file>image/black.png</file>
+        <file>image/buttonBk.png</file>
+        <file>image/aboutBack.png</file>
+        <file>image/aboutText.png</file>
+        <file>image/blue.png</file>
+        <file>image/green.png</file>
+        <file>image/red.png</file>
+        <file>image/bgreen.png</file>
+        <file>image/app.ico</file>
+    </qresource>
+</RCC>
